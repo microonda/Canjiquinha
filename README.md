@@ -1,4 +1,4 @@
-# Canjiquinha
+# <h1>Canjiquinha</h1>
 ### Projeto Canjiquinha - Faça sua Canjica utilizando nossa receita!
 
 <h2> Regulagem automática de ingredientes:</h2>
